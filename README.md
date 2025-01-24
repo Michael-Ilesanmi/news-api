@@ -20,8 +20,8 @@ To set up and run this project, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Michael-Ilesanmi/news-api.git
+   cd news-api
    ```
 
 2. **Install Dependencies**:
